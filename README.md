@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @polemeest
-- 👀 I’m interested in climbing, props, LARP
-- 🌱 I’m currently a Python backend web developer
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me: polemeest@gmail.com
+## Programming is the purest form of applied mathematics 
+
+- 👋 Hi, I’m Denis, born in previous millenia, still standing
+- 👀 Here you'll find only personal and open source projects, work is on gitlab only. Feel free to use what you can see.
+- 🌱 Developing in Python (mainly), Go, Rust and Javascript (Next.js dip for frontend). 
+- 💞️ Hobby are: LARP, TTRPG, climbing, IPSC 
+- 📫 How to reach me: polemeest@gmail.com, tg: @polemeest, bagrovchibirev.com
 
 <!---
 polemeest/polemeest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
