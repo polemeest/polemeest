@@ -10,6 +10,7 @@
       <li>📫 How to reach me: polemeest@gmail.com, tg: @polemeest, bagrovchibirev.com</li>
     </ul>
   </div>
+  commercial profile is here: https://gitlab.com/polemeest
 </div>
 
 <!---
