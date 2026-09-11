@@ -7,7 +7,7 @@
       <li>👀 Here you'll find only personal and open source projects, work is on gitlab only. Feel free to use what you can see</li>
       <li>🌱 Developing in Python (mainly), Go, Rust and Javascript (Next.js dip for frontend)</li>
       <li>💞️ Hobby are: LARP, TTRPG, climbing, IPSC</li>
-      <li>📫 How to reach me: polemeest@gmail.com, tg: @polemeest, bagrovchibirev.com</li>
+      <li>📫 Reach me at: contact@storm-it.dev, tg: @polemeest, storm-it.dev</li>
     </ul>
   </div>
   commercial profile is here: https://gitlab.com/polemeest
